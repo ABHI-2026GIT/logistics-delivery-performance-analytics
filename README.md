@@ -98,6 +98,7 @@ An interactive Power BI dashboard was created to visualize logistics performance
 ## Dashboard Preview
 
 Logistics Delivery Performance Dashboard
+![Customer Segmentation Dashboard](dashboard.png)
 
 ---
 
